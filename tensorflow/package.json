@@ -1,0 +1,19 @@
+{
+  "name": "tensorflowtest",
+  "version": "1.0.0",
+  "description": "test tensorflow node js con anaconda envirenment ",
+  "main": "main.js",
+  "scripts": {
+    "test": "run dev "
+  },
+  "keywords": [
+    "node",
+    "js",
+    "tensorflow"
+  ],
+  "author": "sifaqes",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow/tfjs": "^4.0.0"
+  }
+}
